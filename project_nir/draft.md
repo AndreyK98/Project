@@ -22,7 +22,7 @@
 |🔥 500 CAN'T CONNECT TO PROD	|🔥 500 cant connect to prod|	0
 |🔥 500 CAN'T CONNECT TO PROD	|🔥 500 cant connect to prod|	0
 |🔥 500 CAN'T CONNECT TO HOME.SIMPLEONE.RU:443	|🔥 500 cant connect to homesimpleoneru443	|0
-|🔥 500 CAN'T CONNECT TO HOME.SIMPLEONE.RU:443	🔥 500 cant connect to homesimpleoneru443	|0
+|🔥 500 CAN'T CONNECT TO HOME.SIMPLEONE.RU:443	|🔥 500 cant connect to homesimpleoneru443	|0
 |🔥 500 CAN'T CONNECT TO DEV	|🔥 500 cant connect to dev	|0
 
 ```
