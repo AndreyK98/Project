@@ -14,6 +14,7 @@
 
 Суммаризация центроидов, может быть полезной для обобщенного представления о характеристиках каждого кластера. Однако, центроиды не несут значимой информации или не помогают в понимании данных, то лучше сгенерацировать тематики прямо из датафрейма центроидов.
 
+Пример кластера 0
 |Тема|stem|	cluster_k_means|
 |-|-|-|
 |🔥 500 CAN'T CONNECT TO HOME.SIMPLEONE.RU:443|🔥 500 cant connect to homesimpleoneru443|	0
@@ -22,7 +23,7 @@
 |🔥 500 CAN'T CONNECT TO PROD	|🔥 500 cant connect to prod|	0
 |🔥 500 CAN'T CONNECT TO PROD	|🔥 500 cant connect to prod|	0
 |🔥 500 CAN'T CONNECT TO HOME.SIMPLEONE.RU:443	|🔥 500 cant connect to homesimpleoneru443	|0
-|🔥 500 CAN'T CONNECT TO HOME.SIMPLEONE.RU:443	🔥 500 cant connect to homesimpleoneru443	|0
+|🔥 500 CAN'T CONNECT TO HOME.SIMPLEONE.RU:443	|🔥 500 cant connect to homesimpleoneru443	|0
 |🔥 500 CAN'T CONNECT TO DEV	|🔥 500 cant connect to dev	|0
 
 ```
